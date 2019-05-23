@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.19.0",
+    "sequelize": "^5.8.6",
+    "uuidv4": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "sequelize",
+    "medium"
+  ],
+  "author": "Double",
+  "license": "ISC"
+}
