@@ -1,8 +1,8 @@
 
 const env = {
-    database: 'learnapp',
-    username: 'learnappdbuser',
-    password: 'learnappdbaPa$$',
+    database: 'testdb',
+    username: 'testdbdbuser',
+    password: 'testdbpass',
     host: 'localhost',
     dialect: 'mysql',
     pool: {
